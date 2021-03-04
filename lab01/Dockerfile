@@ -1,7 +1,7 @@
 FROM python:3.6
 
 RUN mkdir -p usr/src/app/
-WORKDIR /usr/src/app/
+WORKDIR /usr/src/app/S
 
 COPY . /usr/src/app/
 
