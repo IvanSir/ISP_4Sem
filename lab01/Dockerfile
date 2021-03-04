@@ -1,5 +1,4 @@
 FROM python:3.6
-MAINTAINER ginvaelwf@mail.ru
 
 RUN mkdir -p usr/src/app/
 WORKDIR /usr/src/app/
