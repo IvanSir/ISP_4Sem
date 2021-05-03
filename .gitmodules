@@ -1,0 +1,3 @@
+[submodule "IspSecondLab"]
+	path = IspSecondLab
+	url = https://github.com/IvanSir/IspSecondLab
