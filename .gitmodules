@@ -1,3 +1,3 @@
-[submodule "IspSecondLab"]
-	path = IspSecondLab
+[submodule "lab02"]
+	path = lab02
 	url = https://github.com/IvanSir/IspSecondLab
