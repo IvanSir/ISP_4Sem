@@ -4,6 +4,3 @@
 [submodule "IspThirdLab"]
 	path = IspThirdLab
 	url = https://github.com/IvanSir/IspThirdLab
-[submodule "Isp4Lab"]
-	path = Isp4Lab
-	url = https://github.com/IvanSir/Isp4Lab
