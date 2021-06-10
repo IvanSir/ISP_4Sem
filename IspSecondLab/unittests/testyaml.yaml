@@ -1,0 +1,54 @@
+__class__: Figure
+__type__: object
+name: circle
+radius: 12
+samples:
+- prosto
+- test
+- 1
+- 2
+- rabotaet
+square:
+  __args__:
+    co_argcount: 1
+    co_cellvars: []
+    co_code:
+    - 116
+    - 0
+    - 124
+    - 0
+    - 106
+    - 1
+    - 100
+    - 1
+    - 19
+    - 0
+    - 20
+    - 0
+    - 83
+    - 0
+    co_consts:
+    - '!None'
+    - 2
+    co_filename: /home/ivan/PycharmProjects/ISPLab2/Examples.py
+    co_firstlineno: 19
+    co_flags: 67
+    co_freevars: []
+    co_kwonlyargcount: 0
+    co_lnotab:
+    - 0
+    - 1
+    co_name: square
+    co_names:
+    - first_global
+    - radius
+    co_nlocals: 1
+    co_posonlyargcount: 0
+    co_stacksize: 3
+    co_varnames:
+    - self
+  __code__: "    def square(self):\n        return first_global * self.radius ** 2\n"
+  __globals__:
+    first_global: 3.14
+  __name__: square
+  __type__: function
