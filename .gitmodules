@@ -1,6 +1,0 @@
-[submodule "lab02"]
-	path = IspSecondLab
-	url = https://github.com/IvanSir/IspSecondLab
-[submodule "IspThirdLab"]
-	path = IspThirdLab
-	url = https://github.com/IvanSir/IspThirdLab
