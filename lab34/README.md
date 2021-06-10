@@ -16,12 +16,12 @@ Docker images:
 ## Some screens:
 
 #### Test Coverage:
-![coverage](https://github.com/IvanSir/IspThirdLab/blob/master/gitpic/coveragepic.png)
+![coverage](https://github.com/IvanSir/ISP_4Sem/blob/master/lab34/gitpic/coveragepic.png)
 
 #### Home page
-![homepage](https://github.com/IvanSir/IspThirdLab/blob/master/gitpic/homepage.png)
+![homepage](https://github.com/IvanSir/ISP_4Sem/blob/master/lab34/gitpic/homepage.png)
 
 
 #### Login/Sign up page
-![loginpage](https://github.com/IvanSir/IspThirdLab/blob/master/gitpic/login.png)
+![loginpage](https://github.com/IvanSir/ISP_4Sem/blob/master/lab34/gitpic/login.png)
 
